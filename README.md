@@ -1,2 +1,2 @@
 # CS705
-Ride-hailing application prototype built to use with the Ethereum Virtual Network. This repository also cinludes class projects for the Cryptography and Blockchain course.
+Ride-hailing application prototype built to use with the Ethereum Virtual Network. This repository also includes PDF's of class projects that I created for a Cryptography and Blockchain course. I designed the class projects to go from easier to harder, so the first class project I made was the CRUD app. Then the auction, and lastly the voting poll application. I also created a document with some questions to answer, as you are working on these projects.
