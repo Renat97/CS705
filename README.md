@@ -1,2 +1,2 @@
 # CS705
-User manuals for the Cryptography and Blockchain course.
+Ride Hailing application prototype, as well as user manuals for the Cryptography and Blockchain course.
